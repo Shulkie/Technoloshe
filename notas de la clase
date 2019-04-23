@@ -1,0 +1,84 @@
+Etiquetas 
+
+<nombre de la etiqueta> contenido </nombre de la etiqueta con barra de cierre>
+
+es un lenguaje de texto plano por lo que se puede escribir en cualquier editor
+
+nombres de archivos
+
+#en minuscula
+#que no tengan espacios
+#que no tengan caracteres especiales (cualquier SIMBOLO )
+
+
+head: sirve para contener el titulo de la pagina y meta información.
+La mayoria de su contenido es invisible al usuario 
+
+body Es el contenido visible de la página 
+
+
+tittle : Sirve para contener el titulo de la pagina, este se ve en la pestaña del navegador.
+
+header: sirve para contener titulares, logotipos, formularios y barras de nav 
+
+main: es el contenido central de la pagina o de la seccion 
+
+footer: sirve para contener info de contacto, telefonos, direcciones, emails, formularios de contacto, 
+barras de nav también, informacion de copyright y barras de ccontacto.
+
+
+
+titulos 
+
+de h1 a h6 
+
+se pueden repetir titulares 
+
+contienen texto plano 
+
+comentar html alt+shift+A
+
+o <!-- lo que quiero comentar -->
+
+
+ul/ ol : listas desordenadas y ordenadas respectivamente.
+siempre adentro va la etiqueta li: sirve para contener el item de la lista
+
+
+ul>li*4 
+
+multiplica los LI 
+
+
+meta: sirve para contener metadata 
+
+<meta name = "description" content "Aprendiendo HTML">
+
+
+
+URL:
+
+http://www.google.com:80/search?q=perro 
+
+protocolo: nos va a indicar la manera en que una maquina quiere ingresar al recurso de otra máquina
+
+https/ftp/http/ssh/otros 
+
+dominio/direccion: direccion fisica donde está la máquina servidor. Pueden estar dadas por URLs o IP 
+
+puerto (:80 ): a que puerta querés llegar, el acceso espeifico a nuestro recurso. Por default el puerto de http es 80  y 
+el de https es 443 
+
+Ruta(search): Todas las carpetas por las que la máquina tiene que navegar para llegar a algún recurso  
+
+Parámetros: se marcan con un signo de interrogación ? , todo lo que le sigue a ese signo es información que le enviamos
+al servidor para posterior proceso
+
+
+ABSOLUTAS: son aquiellas que presentan todas las partes de la URL o como minimo presentan su protocolo (cosas de la internet)
+
+RELATIVAS: Carecen de protoclo y pueden comenzar en cualquier otra parte de la URL (cosas que esten en mi maquina) 
+
+../ subir una caperta de nivel 
+
+
