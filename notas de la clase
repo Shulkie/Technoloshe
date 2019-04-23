@@ -82,3 +82,33 @@ RELATIVAS: Carecen de protoclo y pueden comenzar en cualquier otra parte de la U
 ../ subir una caperta de nivel 
 
 
+<link>: solo se usa para likear archivos de CSS 
+
+href: URL
+rel: "stylesheet" 
+type: "text/css"
+
+CSS
+
+selector: la forma que tenes de seleccionar uan etiqueta
+para poder usarla en css
+ 
+cuerpo: Esta siempre entre llaves {} y va justo despues del selector
+contiene todas las regals que aplican a su selector
+
+reglas: Cada una de las reglas del formato que le queremos aplicar a una etiqueta
+terminan en ;
+
+el selector mas facil es el nombre de la etiqueta
+
+
+text-decoration: none, subrayado, suprarayado, tachado
+
+
+colores:
+
+tradicionales: tabla de colores prestablecidos en inglés
+
+hexadecimales: codigos de colores con prefijo numeral seguido por 6 caracteres
+distintos o tres siempre y cuando cada dupla sea igual
+
